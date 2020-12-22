@@ -2,12 +2,12 @@ html, body {
   width: 50%;
   margin: 0 auto;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: rgb(199, 233, 238);
+  background-color: rgb(227, 250, 253);
 }
 
 
 .container {
-  width: 360px;
+  width: 350px;
 }
 
 
@@ -24,7 +24,7 @@ html, body {
 #btn {
   height: 50px;
   width: 50px;
-  border: 2px solid black;
+  border: 2px solid rgb(5, 5, 5);
   vertical-align: middle;
   font-size: 30px;
 }
